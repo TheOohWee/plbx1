@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+node_modules/
+
+# Cocos-generated (also covered by Playbox1/.gitignore)
+Playbox1/library/
+Playbox1/temp/
+Playbox1/local/
+Playbox1/build/
+Playbox1/profiles/
