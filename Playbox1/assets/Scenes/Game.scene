@@ -354,7 +354,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 500.94707520891365,
+    "_orthoHeight": 360,
     "_near": 0,
     "_far": 2000,
     "_color": {
@@ -5843,7 +5843,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 38.925073990250695,
+      "width": 38.9306640625,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -5876,7 +5876,7 @@
     "_string": "$0",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 39.265625,
+    "_actualFontSize": 35,
     "_fontSize": 35,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -6183,7 +6183,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 445.23645325557106,
+      "width": 445.2900390625,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -6216,7 +6216,7 @@
     "_string": "Tap to start earning!",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 51.606249999999996,
+    "_actualFontSize": 46,
     "_fontSize": 46,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -6445,7 +6445,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 512.6335741643454,
+      "width": 512.6953125,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -6478,7 +6478,7 @@
     "_string": "Jump to avoid enemies",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 51.606249999999996,
+    "_actualFontSize": 46,
     "_fontSize": 46,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -7008,7 +7008,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 399.9488052750697,
+      "width": 399.9755859375,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -7041,7 +7041,7 @@
     "_string": "Congratulations!",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 56.09375,
+    "_actualFontSize": 50,
     "_fontSize": 50,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -7140,7 +7140,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 278.4150309018106,
+      "width": 278.466796875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -7173,7 +7173,7 @@
     "_string": "Choose your reward!",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 33.65625,
+    "_actualFontSize": 30,
     "_fontSize": 30,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -7272,7 +7272,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 125.11367840355153,
+      "width": 125.1220703125,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -7305,7 +7305,7 @@
     "_string": "00:59",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 56.09375,
+    "_actualFontSize": 50,
     "_fontSize": 50,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -7404,7 +7404,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 323.6331389275766,
+      "width": 323.73046875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -7437,7 +7437,7 @@
     "_string": "Next payment in one minute",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 29.16875,
+    "_actualFontSize": 26,
     "_fontSize": 26,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -7588,7 +7588,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 183.1680829996518,
+      "width": 183.1708984375,
       "height": 58.4
     },
     "_anchorPoint": {
@@ -7621,7 +7621,7 @@
     "_string": "$0.00",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 78.53125,
+    "_actualFontSize": 70,
     "_fontSize": 70,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -7842,7 +7842,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 286.79405684192204,
+      "width": 286.8466796875,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -7875,7 +7875,7 @@
     "_string": "INSTALL AND EARN",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 33.65625,
+    "_actualFontSize": 30,
     "_fontSize": 30,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -8401,7 +8401,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 441.49871061107245,
+      "width": 441.5283203125,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -8434,7 +8434,7 @@
     "_string": "You didn't make it!",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 56.09375,
+    "_actualFontSize": 50,
     "_fontSize": 50,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -8533,7 +8533,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 282.3547125261142,
+      "width": 282.4072265625,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -8566,7 +8566,7 @@
     "_string": "Try again on the app!",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 33.65625,
+    "_actualFontSize": 30,
     "_fontSize": 30,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -8665,7 +8665,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 125.11367840355153,
+      "width": 125.1220703125,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -8698,7 +8698,7 @@
     "_string": "00:59",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 56.09375,
+    "_actualFontSize": 50,
     "_fontSize": 50,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -8797,7 +8797,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 323.6331389275766,
+      "width": 323.73046875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -8830,7 +8830,7 @@
     "_string": "Next payment in one minute",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 29.16875,
+    "_actualFontSize": 26,
     "_fontSize": 26,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -8981,7 +8981,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 183.1680829996518,
+      "width": 183.1708984375,
       "height": 58.4
     },
     "_anchorPoint": {
@@ -9014,7 +9014,7 @@
     "_string": "$0.00",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 78.53125,
+    "_actualFontSize": 70,
     "_fontSize": 70,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -9235,7 +9235,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 286.79405684192204,
+      "width": 286.8466796875,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -9268,7 +9268,7 @@
     "_string": "INSTALL AND EARN",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 33.65625,
+    "_actualFontSize": 30,
     "_fontSize": 30,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
